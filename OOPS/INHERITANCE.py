@@ -22,3 +22,7 @@ class PuneFactory(BhopalFactory):
 
 obj=PuneFactory("Leather", 3, "Black", 2)
 obj.show()
+
+
+
+#show() depicts polymorphism as the same method name is used in all the classes but the implementation is different in each class.
